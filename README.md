@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheFinanceProgrammer, my name is Ayman Abdalla a graduate from Rutgers University with a Bachelor of Science in Finance.
+- 👋 Hi, I’m Ayman Abdalla a graduate from Rutgers University with a Bachelor of Science in Finance.
 - 👀 I’m interested in financial analysis, financial markets, programming, music production, and movies. 
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on any projects that utilize financial analysis or creative mediums. 
